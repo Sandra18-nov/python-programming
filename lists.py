@@ -46,6 +46,6 @@
 
 #   for i in range(len(nums)):
 #     print(nums[i])
-/ print(nums[i])
+print(nums[i])
 
 
